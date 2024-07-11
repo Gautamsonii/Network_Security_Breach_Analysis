@@ -22,6 +22,19 @@ To run this project, you need to have Python installed along with the following 
 - scikit-learn
 - xgboost
 
+Results
+The accuracy scores of various models are as follows:
+
+Model	Accuracy
+XGBoost	99.71%
+Naive Bayes	90.58%
+RandomForest	99.49%
+AdaBoost	97.59%
+Gradient Boosting	98.78%
+Decision Tree	99.25%
+Multi-Layer Perceptron	98.78%
+KNN	98.62%
+
 You can install the required libraries using pip:
 
 ```bash
@@ -33,3 +46,5 @@ cd network-security-breach-prediction
 
 2.Run the script:
 python main.py
+
+
