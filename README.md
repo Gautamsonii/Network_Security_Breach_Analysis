@@ -26,3 +26,9 @@ You can install the required libraries using pip:
 
 ```bash
 pip install numpy pandas matplotlib seaborn scikit-learn xgboost
+
+1. Clone the repository:
+git clone https://github.com/your_username/network-security-breach-prediction.git
+cd network-security-breach-prediction
+2.Run the script:
+python main.py
